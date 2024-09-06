@@ -139,4 +139,13 @@ let vegetais = [
       "A abobrinha é rica em água e fibras, sendo uma ótima opção para uma dieta saudável e equilibrada.",
     link: "https://pt.wikipedia.org/wiki/Abobrinha",
   },
+  {
+    nome: "Tomate",
+    epocaPlantio: ["Primavera", "Verão"],
+    espacamentoLinha: 80,
+    espacamentoEntre: 50,
+    tempoColheita: 60,
+    descricao: "O tomate é uma fruta rica em licopeno, um antioxidante que ajuda a prevenir diversas doenças.",
+    link: "https://pt.wikipedia.org/wiki/Tomate"
+}
 ];
