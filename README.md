@@ -34,4 +34,4 @@ O Hortalino está sempre crescendo! Se você tem ideias ou quer ajudar no desenv
 **Vamos juntos cultivar um mundo mais verde!** 
 
 **Adaptare Software**
-[Seu email]
+adaptaresoftware@gmail.com
